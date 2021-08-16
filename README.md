@@ -1,4 +1,4 @@
-# Meu primeiro projeto de Website.
+# Criação de Website
 ## Sabor da Serra 
 Link: https://joaoeduard0.github.io/website-sabor-da-serra <br/>
 O primeiro projeto  que criei teve como base: treinar e praticar conceitos fundamentais de JavaScript, CSS e HTML, 
